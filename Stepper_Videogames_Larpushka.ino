@@ -110,7 +110,7 @@ if (PinFour == 1 && ReactivatedFour == true)
   Keyboard.press('w');
     delay(MoveDelayEdge);
   ReactivatedFour = false;
-  TimeFive = millis(); 
+  TimeFour = millis(); 
 }
 
 
